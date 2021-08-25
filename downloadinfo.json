@@ -1,15 +1,11 @@
 [
   {
-    "beauty.shop.hair.color.changer.different.hair.colors": {
-      "am_ba": "",
-      "am_in": "",
-      "am_na": "",
-      "fb_ba": "+lY/sFcNtdg2vBC58MlYAp1QmKnQih96bCHKr2zuHHg=",
-      "fb_in": "+lY/sFcNtdg2vBC58MlYAilcRs7CrDmIc+mavd9WItI=",
-      "fb_re": "+lY/sFcNtdg2vBC58MlYAjyw7SHMBicKRKO/dfHEFbU=",
-      "fb_na": "+lY/sFcNtdg2vBC58MlYAoI6C9xHhRuaY2wA2T9gMsY=",
+    "com.sweet.camera.selfie.filters": {
+      "am_ba": "ca-app-pub-3940256099942544/6300978111",
+      "am_in": "ca-app-pub-3940256099942544/1033173712",
+      "am_na": "ca-app-pub-3940256099942544/2247696110",
       "ads_list": [
-        "fb"
+        "am"
       ]
     },
     "com.beauty.photo.debug": {
