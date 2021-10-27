@@ -1,5 +1,13 @@
 [
   {
+    "com.sweet.camera.selfie.squid.game.photo.editor.automatic.background.changer": {
+      "mp_ba":"3ee4d20f8fdc40e89d80d7f9b83654e7",
+      "mp_re":"c1600d5431114fd98b5cee5b41f92e55",
+      "mp_in":"bcc3de69f85644569aeb7829a7275fef",
+      "mp_na":"43108e9158a74399ad0da9951b98131e",
+
+      "ads_list": ["mp"]
+    },
     "com.sweet.camera.selfie.filters": {
       "am_ba": "ca-app-pub-5009766752071906/9777325317",
       "am_in": "ca-app-pub-5009766752071906/1254664001",
