@@ -23,7 +23,7 @@
       "fb_re":"1212392109267934_1212393725934439",
       "fb_na":"1212392109267934_1212393485934463",
 
-      "ads_list": ["fb", "mp"]
+      "ads_list": ["mp", "fb"]
     },
     "com.sweet.camera.selfie.filters": {
       "am_ba": "ca-app-pub-5009766752071906/9777325317",
@@ -40,7 +40,7 @@
       "fb_re":"550542182910804_550542752910747",
       "fb_na":"550542182910804_550542659577423",
 
-      "ads_list": ["fb", "am", "mp"]
+      "ads_list": ["mp", "am", "fb"]
     },
     "com.sweet.camera.selfie.sweet.snap.live.face.sticker": {
       "am_ba": "ca-app-pub-5009766752071906/6862213903",
