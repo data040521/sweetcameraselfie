@@ -79,14 +79,15 @@
   },
   {
     "common": {
-      "ad_country1": [
+      "nation_allow": [
         "us",
         "en",
         "vn"
       ],
-      "ad_country2": [
-        "br",
-        "id"
+      "nation_forbid": [
+        "in",
+        "th",
+        "kr"
       ]
     }
   }
