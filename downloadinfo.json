@@ -87,7 +87,7 @@
   },
   {
     "common": {
-      "nation_allow": [
+      "nation_forbid": [
         "us",
         "en",
         "vn"
