@@ -2,10 +2,10 @@
   "adsApp": [
     {
       "icon": "https://raw.githubusercontent.com/data040521/sweetcameraselfie/master/ads/icon.png",
-      "cover": "https://raw.githubusercontent.com/data040521/sweetcameraselfie/master/ads/graphic.jpg",
-      "appName": "Album Cover Maker",
-      "description": "This is the best app for creating beautiful album covers. Download now and be on your way to using this powerful mixtape cover maker",
-      "package": "com.photo.beauty.plus.album.cover",
+      "cover": "https://raw.githubusercontent.com/data040521/sweetcameraselfie/master/ads/graphic.png",
+      "appName": "Live face sticker sweet",
+      "description": "Make your photo to look cute girl with hundred of heart crown effect, flower crown, cat stickers... and a lot of cute filter!",
+      "package": "frame.art.master.live.face.sticker.sweet.camera",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
