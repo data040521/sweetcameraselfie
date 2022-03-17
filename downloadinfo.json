@@ -26,14 +26,6 @@
       "ads_list": ["mp", "fb"]
     },
     "com.sweet.camera.selfie.filters": {
-      "mp_ba":"64277d2828e1485890f7e840eca756a6",
-      "mp_re":"0851b2671f114aedad387f46e65116a0",
-      "mp_in":"9c4c39ca41f2433e9bd8e31549399ddb",
-      "mp_na":"c06503c15376427bb1f33c03c705aa9f",
-
-      "am2_ba": "ca-app-pub-5009766752071906/9482750532",
-      "am2_in": "ca-app-pub-5009766752071906/4493351575",
-      "am2_na": "ca-app-pub-5009766752071906/1867188237",
 
       "is_id":"12f31bf25",
 
@@ -42,12 +34,9 @@
       "fb_re":"550542182910804_550542752910747",
       "fb_na":"550542182910804_550542659577423",
 
-      "ads_list": ["am", "is", "mp", "fb"]
+      "ads_list": ["is", "fb"]
     },
     "com.sweet.camera.selfie.sweet.snap.live.face.sticker": {
-      "am2_ba": "ca-app-pub-5009766752071906/7871690937",
-      "am2_in": "ca-app-pub-5009766752071906/8912792946",
-      "am2_na": "ca-app-pub-5009766752071906/7599711275",
 
       "fb_ba":"269856405077490_274179611311836",
       "fb_in":"269856405077490_274179667978497",
@@ -56,11 +45,7 @@
 
       "is_id":"12ec413e5",
 
-      "mp_ba":"bbdc7cab21bc4faa8624433f8bd65b50",
-      "mp_re":"d4f5add81a70497782d9e9e9506317f7",
-      "mp_in":"17550200363c4108a01e852a7c064a94",
-      "mp_na":"e783bccf27ef4370bab6c586393d346b",
-      "ads_list": ["am", "is", "fb", "mp"]
+      "ads_list": ["is", "fb"]
     },
     "com.sweet.camera.selfie.filters.test": {
       "am_ba": "ca-app-pub-3940256099942544/6300978111",
