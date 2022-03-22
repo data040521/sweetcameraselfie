@@ -3,9 +3,9 @@
     {
       "icon": "https://raw.githubusercontent.com/data040521/sweetcameraselfie/master/ads/icon.png",
       "cover": "https://raw.githubusercontent.com/data040521/sweetcameraselfie/master/ads/graphic.png",
-      "appName": "Live face sticker sweet",
-      "description": "Make your photo to look cute girl with hundred of heart crown effect, flower crown, cat stickers... and a lot of cute filter!",
-      "package": "frame.art.master.live.face.sticker.sweet.camera",
+      "appName": "Photo Creator",
+      "description": "Photo Creator enables you create photo collage, make stickers, and add stylish effects, filters and presets in one tap.",
+      "package": "foto.arte.photo.creator",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
