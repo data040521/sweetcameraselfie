@@ -1,21 +1,20 @@
 {
   "adsApp": [
     {
+      "icon": "https://raw.githubusercontent.com/data040521/sweetcameraselfie/master/ads/icon2.png",
+      "cover": "https://raw.githubusercontent.com/data040521/sweetcameraselfie/master/ads/graphic2.png",
+      "appName": "Neon Horns Devil",
+      "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds",
+      "package": "frame.art.master.neon.horns.devil.photo.editor",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },{
       "icon": "https://raw.githubusercontent.com/data040521/sweetcameraselfie/master/ads/icon.png",
       "cover": "https://raw.githubusercontent.com/data040521/sweetcameraselfie/master/ads/graphic.png",
       "appName": "Photo Creator",
       "description": "Photo Creator enables you create photo collage, make stickers, and add stylish effects, filters and presets in one tap.",
       "package": "foto.arte.photo.creator",
-      "link": "",
-      "actionText": "VISIT APP",
-      "type": "app"
-    },
-    {
-      "icon": "https://raw.githubusercontent.com/data040521/sweetcameraselfie/master/ads/icon3.png",
-      "cover": "https://raw.githubusercontent.com/data040521/sweetcameraselfie/master/ads/poster3.png",
-      "appName": "Emoji Selfie Camera",
-      "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds",
-      "package": "com.filter.forMusically",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
