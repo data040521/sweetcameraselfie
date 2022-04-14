@@ -23,10 +23,6 @@
     "com.sweet.camera.selfie.filters": {
       "is_id":"12f31bf25",
 
-      "am3_ba": "ca-app-pub-5082741806887748/9796720500",
-      "am3_in": "ca-app-pub-5082741806887748/1158794532",
-      "am3_na": "ca-app-pub-5082741806887748/5262864535",
-
       "fb_ba":"550542182910804_550542346244121",
       "fb_in":"550542182910804_550542586244097",
       "fb_re":"550542182910804_550542752910747",
@@ -36,7 +32,7 @@
       "al_in":"8f3a9ea1e6e6ac33",
       "al_re":"df64b1e2d3cbbe73",
 
-      "ads_list": ["am", "al", "is", "fb"]
+      "ads_list": ["al", "is", "fb"]
     },
     "com.sweet.camera.selfie.sweet.snap.live.face.sticker": {
       "al_ba":"a8f1752a6758363e",
@@ -48,13 +44,9 @@
       "fb_re":"269856405077490_274179827978481",
       "fb_na":"269856405077490_274179747978489",
 
-      "am3_ba": "ca-app-pub-5082741806887748/9557332768",
-      "am3_in": "ca-app-pub-5082741806887748/2465025397",
-      "am3_na": "ca-app-pub-5082741806887748/1151943720",
-
       "is_id":"12ec413e5",
 
-      "ads_list": ["am", "al", "is", "fb"]
+      "ads_list": ["al", "is", "fb"]
     },
     "com.sweet.camera.selfie.filters.test": {
       "am3_ba": "ca-app-pub-3940256099942544/6300978111",
