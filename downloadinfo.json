@@ -5,7 +5,11 @@
       "am_in": "ca-app-pub-6662989269990337/3920570278",
       "am_na": "ca-app-pub-6662989269990337/2788332257",
 
-      "ads_list": ["am"]
+      "al_ba": "7465563a3c7ded84",
+      "al_in": "93b588f0a8adcd36",
+      "al_re": "eab68a8d9164422d",
+
+      "ads_list": ["al", "am"]
     },
     "com.sweet.camera.selfie.squid.game.photo.editor.automatic.background.changer": {
       "mp_ba":"3ee4d20f8fdc40e89d80d7f9b83654e7",
