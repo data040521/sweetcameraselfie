@@ -25,6 +25,9 @@
       "ads_list": ["mp", "fb"]
     },
     "com.sweet.camera.selfie.filters": {
+      "am_in": "￼ca-app-pub-9787583362739723/2794671143",
+      "am2_in": "￼ca-app-pub-9787583362739723/2794671143",
+
       "is_id":"12f31bf25",
 
       "fb_ba":"550542182910804_550542346244121",
@@ -36,7 +39,7 @@
       "al_in":"8f3a9ea1e6e6ac33",
       "al_re":"df64b1e2d3cbbe73",
 
-      "ads_list": ["al", "is", "fb"]
+      "ads_list": ["am", "al", "is", "fb"]
     },
     "com.sweet.camera.selfie.sweet.snap.live.face.sticker": {
       "al_ba":"a8f1752a6758363e",
