@@ -85,7 +85,8 @@
   },
   {
     "common": {
-      "nation_allow":["AU", "AT", "BE", "CA", "DK", "FI", "FR", "DE", "IE", "IT", "LU", "NL", "NZ", "NO", "ES", "SE", "CH", "GB", "US"]
+      "nation_forbid":["US"],
+      "nation_allow123":["AU", "AT", "BE", "CA", "DK", "FI", "FR", "DE", "IE", "IT", "LU", "NL", "NZ", "NO", "ES", "SE", "CH", "GB", "US"]
     }
   }
 ]
