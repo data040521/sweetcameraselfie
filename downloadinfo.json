@@ -85,8 +85,7 @@
   },
   {
     "common": {
-      "nation_forbid123":["VN"],
-      "nation_allow":["AU", "AT", "BE", "CA", "DK", "FI", "FR", "DE", "IE", "IT", "LU", "NL", "NZ", "NO", "ES", "SE", "CH", "GB", "US"]
+      "nation_forbid123":["VN"]
     }
   }
 ]
