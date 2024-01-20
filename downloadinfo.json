@@ -1,15 +1,15 @@
 [
   {
     "photoBeautyPlus.makeup.camera": {
-      "am_ba": "ca-app-pub-3611895700562610/2590519993",
-      "am_in": "ca-app-pub-3611895700562610/3175761780",
-      "am_na": "ca-app-pub-3611895700562610/7651274983",
+      "am_ba": "",
+      "am_in": "",
+      "am_na": "",
 
       "al_ba": "7465563a3c7ded84",
       "al_in": "93b588f0a8adcd36",
       "al_re": "eab68a8d9164422d",
 
-      "ads_list": ["am", "al"]
+      "ads_list": ["al"]
     },
     "com.sweet.camera.selfie.squid.game.photo.editor.automatic.background.changer": {
       "mp_ba":"3ee4d20f8fdc40e89d80d7f9b83654e7",
