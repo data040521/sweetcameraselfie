@@ -2,6 +2,19 @@
   {
     "photoBeautyPlus.makeup.camera": {
       "am_ba": "",
+      "am_in": "ca-app-pub-8972625079575667/2458118002",
+      "am_na": "",
+
+      "app_id": "ca-app-pub-8972625079575667~5372055958",
+
+      "al_ba": "7465563a3c7ded84",
+      "al_in": "93b588f0a8adcd36",
+      "al_re": "eab68a8d9164422d",
+
+      "ads_list": ["am", "al"]
+    },
+    "photoBeautyPlus.makeup.camera.bk": {
+      "am_ba": "",
       "am_in": "",
       "am_na": "",
 
